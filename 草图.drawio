@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.6">
   <diagram name="第 1 页" id="kepm6H9XeUZwfRZU9IKG">
-    <mxGraphModel dx="997" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1361" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,7 +439,7 @@
           <mxGeometry x="347.495" y="1699.9950000000001" width="137.5" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="yN0ZqS6E7n7FuofRWHTt-184" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;Channel &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;Attention&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="756.72" y="1560.16" width="138.44" height="68.12" as="geometry" />
+          <mxGeometry x="250" y="2930" width="138.44" height="68.12" as="geometry" />
         </mxCell>
         <mxCell id="yN0ZqS6E7n7FuofRWHTt-186" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="432.51" y="1155.63" width="20" height="20" as="geometry" />
@@ -926,6 +926,24 @@
               <mxPoint x="120" y="2555" />
               <mxPoint x="150" y="2375" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFxgLBG7V-QePvOMpqSr-115" value="AH_tilde" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2900" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iFxgLBG7V-QePvOMpqSr-116" value="AL_tilde" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2970" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iFxgLBG7V-QePvOMpqSr-117" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yN0ZqS6E7n7FuofRWHTt-184">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="2930" as="sourcePoint" />
+            <mxPoint x="200" y="2920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFxgLBG7V-QePvOMpqSr-118" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yN0ZqS6E7n7FuofRWHTt-184">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="2999" as="sourcePoint" />
+            <mxPoint x="200" y="2920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
